@@ -1,0 +1,25 @@
+literal
+  -123       - decimal
+  -b1010     - binary
+  -xFF, xff  - hexadecimal
+  -o123,     - octal
+
+  -123.32, xFF.12 - fractional
+
+operations
+  - +, add
+  - -, sub
+  - *, mul
+  - /, div
+  - v, sqrt
+  - ^, pow
+  - ~, round
+  - fl, floor
+  - fr, fract
+  - rcp
+  - _, neg
+  - =    - print top
+  - dump - dump stack
+  - d    - duplicate
+  - c    - clear
+  - q    - quit
